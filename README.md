@@ -107,7 +107,7 @@ return [
 
 You can publish it with the command:
 
-`php artisan vendor:publish --tag=wp-import`
+`php artisan vendor:publish --tag=wp-import-config`
 
 ## Known issues
 
