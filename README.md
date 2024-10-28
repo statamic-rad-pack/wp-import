@@ -1,14 +1,11 @@
-# Statamic WP Import
+# Statamic WP Import has been replaced
 
-> Statamic WP Import can import simple content from your WP site.
-
-Note: This addon works in conjunction with a [WordPress plugin](https://github.com/jezzdk/wordpress-to-statamic-exporter).
+**If you are looking for a way to import your content and data from WordPress to Statamic, head to the [Official Importer](https://github.com/statamic/importer) project.**
 
 ## Note
 
-This is a rough addon the Rad Pack inherited from [@jezzdk](https://github.com/jezzdk). It's based on the v2 method of generating a JSON file with a separate WP plugin, which isn't ideal, but should still be functional.
+Statamic WP Import can import simple content from your WP site in conjunction with a [WordPress plugin](https://github.com/jezzdk/wordpress-to-statamic-exporter).
 
-We're open to PRs and collaboration, though the Statamic Core Team is working on a different approach that will likely replace this in the near future.
 
 
 ## Features
